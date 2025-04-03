@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Vitalii/Documents/Unreal Projects/ServerGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Vitalii/Documents/Unreal Projects/ServerGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Vitalii/Documents/Unreal Projects/ServerGame/Content/ThirdPerson/Blueprints/BP_Item.uasset"
+			]
+		}
+	]
+}
